@@ -31,7 +31,11 @@ html {
 .icons-social i {
 	font-size: 3em;
 }
-
+ .ziarr {
+ width: 100px;
+ height: 100px;
+ background-color : blank;
+ }
 /* Custom Styles */
 
 main {
