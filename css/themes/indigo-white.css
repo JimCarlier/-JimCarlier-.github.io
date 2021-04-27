@@ -2,13 +2,18 @@
 
 main {
 	background: #303F9F;
-	color: #FAFAFA;
+	color: lightgreen;
 }
 
 .icons-social a {
-	color: #FAFAFA;
+	color: lightgreen;
+}
+.icons-social a :hover {
+	color: seashell;
+	-webkit-animation:fa-spin 4s linear infinite;
+ animation:fa-spin 4s linear infinite
 }
 
 .icons-social a svg path{
-	fill: #FAFAFA;
+	fill: lightgreen;
 }
